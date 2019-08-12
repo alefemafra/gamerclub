@@ -17,7 +17,7 @@ class MiniDashboard extends Component {
     }
 
     componentDidMount(){
-        let _this = this;
+        const _this = this;
         axios.get(API.url)
         .then(function (res) {
             _this.setState({data: res.data})
