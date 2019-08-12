@@ -17,12 +17,11 @@ class MiniDashboard extends Component {
     }
 
     componentDidMount(){
-        const _this = this;
         axios.get(API.url)
-        .then(function (res) {
-            _this.setState({data: res.data})
+        .then((res) => {
+            this.setState({data: res.data})
         })
-        .catch(function (error) {
+        .catch((error) => {
             // handle error
             console.log(error);
         })
@@ -30,7 +29,6 @@ class MiniDashboard extends Component {
 
     render() {
         const { data } = this.state;
-        console.log(data)
         return (
             <div className="mini-dashboard">
                 {(data !== '') ? 
