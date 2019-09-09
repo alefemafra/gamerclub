@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gamersclub-teste/static/css/main.292a622e.chunk.css",
+    "main.js": "/gamersclub-teste/static/js/main.4dfbc109.chunk.js",
+    "main.js.map": "/gamersclub-teste/static/js/main.4dfbc109.chunk.js.map",
+    "runtime~main.js": "/gamersclub-teste/static/js/runtime~main.f82cfc16.js",
+    "runtime~main.js.map": "/gamersclub-teste/static/js/runtime~main.f82cfc16.js.map",
+    "static/css/2.5d7a51de.chunk.css": "/gamersclub-teste/static/css/2.5d7a51de.chunk.css",
+    "static/js/2.d0ef8d7a.chunk.js": "/gamersclub-teste/static/js/2.d0ef8d7a.chunk.js",
+    "static/js/2.d0ef8d7a.chunk.js.map": "/gamersclub-teste/static/js/2.d0ef8d7a.chunk.js.map",
+    "index.html": "/gamersclub-teste/index.html",
+    "precache-manifest.c7bb49b391566811f7490f0bb7d34d40.js": "/gamersclub-teste/precache-manifest.c7bb49b391566811f7490f0bb7d34d40.js",
+    "service-worker.js": "/gamersclub-teste/service-worker.js",
+    "static/css/2.5d7a51de.chunk.css.map": "/gamersclub-teste/static/css/2.5d7a51de.chunk.css.map",
+    "static/css/main.292a622e.chunk.css.map": "/gamersclub-teste/static/css/main.292a622e.chunk.css.map",
+    "static/media/App.scss": "/gamersclub-teste/static/media/background.18e6a27e.png",
+    "static/media/header.scss": "/gamersclub-teste/static/media/header-background.849eb0e2.jpg",
+    "static/media/iconuser.jpg": "/gamersclub-teste/static/media/iconuser.82bf502a.jpg",
+    "static/media/style.scss": "/gamersclub-teste/static/media/overpass-bg.bea7fbc6.png",
+    "static/media/styles.css": "/gamersclub-teste/static/media/revicons.2feb69cc.eot"
+  }
+}
